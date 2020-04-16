@@ -1,4 +1,4 @@
-# Gatsby Source for Most Read Posts from Google Analytics
+# Gatsby Source for Most Read Posts from Google Analytics [![npm version](https://badge.fury.io/js/%40blackbox-vision%2Fgatsby-source-google-analytics-api-most-read-posts.svg)](https://badge.fury.io/js/%40blackbox-vision%2Fgatsby-source-google-analytics-api-most-read-posts) [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT) [![Known Vulnerabilities](https://snyk.io/test/github/blackboxvision/gatsby-source-analytics-most-read-posts/badge.svg)](https://snyk.io/test/github/blackboxvision/gatsby-source-analytics-most-read-posts)
 
 Get your most read Posts from Google Analytics Reporting API.
 
