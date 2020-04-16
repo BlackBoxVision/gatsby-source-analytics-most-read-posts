@@ -1,0 +1,49 @@
+{
+  "name": "@blackbox-vision/gatsby-source-google-analytics-api-most-read-posts",
+  "version": "1.0.0",
+  "description": "Pull your most read posts from google analytics",
+  "main": "gatsby-node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlackBoxVision/gatsby-source-analytics-most-read-posts.git"
+  },
+  "keywords": [
+    "gatsby",
+    "gatsby",
+    "plugin"
+  ],
+  "author": "Jonatan E. Salas <jonatan.salas@blackbox-vision.tech>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BlackBoxVision/gatsby-source-analytics-most-read-posts/issues"
+  },
+  "homepage": "https://github.com/BlackBoxVision/gatsby-source-analytics-most-read-posts#readme",
+  "dependencies": {
+    "googleapis": "^48.0.0"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^8.3.5",
+    "@commitlint/config-conventional": "^8.3.4",
+    "husky": "^4.2.5",
+    "lint-staged": "^10.1.3",
+    "prettier": "^2.0.4"
+  },
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS",
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.{js,json,css,md}": [
+      "prettier --write",
+      "git add"
+    ],
+    "*.{js,ts,tsx}": [
+      "git add"
+    ]
+  }
+}
