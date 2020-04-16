@@ -12,8 +12,10 @@
   },
   "keywords": [
     "gatsby",
-    "gatsby",
-    "plugin"
+    "gatsby-plugin",
+    "gatsby-source-plugin",
+    "gatsby-source-google-analytics-api-most-read-posts",
+    "google-analytics"
   ],
   "author": "Jonatan E. Salas <jonatan.salas@blackbox-vision.tech>",
   "license": "MIT",
