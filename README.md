@@ -89,12 +89,12 @@ MostReadPosts.displayName = 'MostReadPosts';
 
 ## Issues
 
-Please, open an [issue](https://github.com/BlackBoxVision/use-torch-light/issues) following one of the issues templates. We will do our best to fix them.
+Please, open an [issue](https://github.com/BlackBoxVision/gatsby-source-analytics-most-read-posts/issues) following one of the issues templates. We will do our best to fix them.
 
 ## Contributing
 
-If you want to contribute to this project see [contributing](https://github.com/BlackBoxVision/use-torch-light/blob/master/CONTRIBUTING.md) for more information.
+If you want to contribute to this project see [contributing](https://github.com/BlackBoxVision/gatsby-source-analytics-most-read-posts/blob/master/CONTRIBUTING.md) for more information.
 
 ## License
 
-Distributed under the **MIT license**. See [LICENSE](https://github.com/BlackBoxVision/use-torch-light/blob/master/LICENSE) for more information.
+Distributed under the **MIT license**. See [LICENSE](https://github.com/BlackBoxVision/gatsby-source-analytics-most-read-posts/blob/master/LICENSE) for more information.
